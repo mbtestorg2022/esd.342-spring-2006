@@ -48,13 +48,217 @@ The purpose of this project is to attempt to learn something fundamental about t
 {{< anchor "Table" >}}{{< /anchor >}}Student Projects
 -----------------------------------------------------
 
-| CASE STUDIES | STUDENTS | FACULTY ADVISORS | PRESENTATIONS | FINAL REPORTS |
-| --- | --- | --- | --- | --- |
-| Usage Patterns of Planetary Data | Mark Avnet  {{< br >}}Kate Martin | Whitney | Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_plant_data))  {{< br >}}  {{< br >}}Phase 2 ([PDF]({{< baseurl >}}/resources/pre2_planet_data))  {{< br >}}  {{< br >}}Final ([PDF - 1.9 MB]({{< baseurl >}}/resources/finl_planet_data)) | ([PDF - 1.6 MB]({{< baseurl >}}/resources/rep_planet_data)) |
-| PJM Electric Grid | Karen Tapia-Ahumada  {{< br >}}Jehanzeb Noor  {{< br >}}Katherine Steel | Whitney | Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_powergrid))  {{< br >}}  {{< br >}}Phase 2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/pres2_powergrid))  {{< br >}}  {{< br >}}Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_powergrid)) | ([PDF - 4.3 MB]({{< baseurl >}}/resources/report_powergrid)) |
-| Air Transport | Philippe Bonnefoy  {{< br >}}Roland Weibel | Magee | Phase 1 ([PDF - 3.0 MB]({{< baseurl >}}/resources/pres1_airtrans))  {{< br >}}  {{< br >}}Phase 2 ([PDF - 2.3 MB]({{< baseurl >}}/resources/pres2_airtrans))  {{< br >}}  {{< br >}}Final (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.2 MB]({{< baseurl >}}/resources/final_airtrans)) | ([PDF - 1.6 MB]({{< baseurl >}}/resources/report_airtrans)) |
-| Public Switched Telephone Network (PSTN) | Jijun Lin  {{< br >}}Dan Livengood  {{< br >}}Chintan Vaishnav | Whitney | Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_pstn))  {{< br >}}  {{< br >}}Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_pstn))  {{< br >}}  {{< br >}}Final ([PDF - 1.2 MB]({{< baseurl >}}/resources/final_pstn)) | ([PDF - 1.1 MB]({{< baseurl >}}/resources/report_pstn)) |
-| ROOFNET Wireless Communication Network | Derek Rayside  {{< br >}}Jennifer E. Underwood  {{< br >}}Yingxia Yang | Moses | Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_roofnet))  {{< br >}}  {{< br >}}Phase 2 ([PDF - 1.5 MB]({{< baseurl >}}/resources/pres2_roofnet))  {{< br >}}  {{< br >}}Final ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_roofnet)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7 MB]({{< baseurl >}}/resources/report_roofnet-1)) |
-| MAPK Pathways | Gergana Buonova  {{< br >}}Michael Hanowsky  {{< br >}}Nandan Sudarsanam | Magee | Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_mapk))  {{< br >}}  {{< br >}}Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_mapk))  {{< br >}}  {{< br >}}Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_mapk)) | ([PDF]({{< baseurl >}}/resources/report_mapk)) |
-| Team Structure in Climate Change Research | Travis Franck  {{< br >}}Robert Nicol  {{< br >}}Jaemin Song | Moses | Phase 1 ([PDF - 2.0 MB]({{< baseurl >}}/resources/pres1_team_struc))  {{< br >}}  {{< br >}}Phase 2 ([PDF - 1.6 MB]({{< baseurl >}}/resources/pres2_team_struc))  {{< br >}}  {{< br >}}Final ([PDF]({{< baseurl >}}/resources/final_team_struc)) | ([PDF - 1.0 MB]({{< baseurl >}}/resources/rep_team_struct)) |
-| Centralized-decentralized: Wikipedia vs. Encyclopedia Britannica | Joao Castro  {{< br >}}Nirav Shah  {{< br >}}Robb Wirthlin | Magee | Phase 1 ([PDF - 2.7 MB]({{< baseurl >}}/resources/pres1_cent_decen))  {{< br >}}  {{< br >}}Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_cent_decen))  {{< br >}}  {{< br >}}Final ([PDF]({{< baseurl >}}/resources/final_cent_decen)) | ([PDF - 1.9 MB]({{< baseurl >}}/resources/rep_cent_decent))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CASE STUDIES
+{{< thclose >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+FACULTY ADVISORS
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATIONS
+{{< thclose >}}
+{{< thopen >}}
+FINAL REPORTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Usage Patterns of Planetary Data
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Avnet  
+Kate Martin
+{{< tdclose >}}
+{{< tdopen >}}
+Whitney
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_plant_data))  
+  
+Phase 2 ([PDF]({{< baseurl >}}/resources/pre2_planet_data))  
+  
+Final ([PDF - 1.9 MB]({{< baseurl >}}/resources/finl_planet_data))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6 MB]({{< baseurl >}}/resources/rep_planet_data))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PJM Electric Grid
+{{< tdclose >}}
+{{< tdopen >}}
+Karen Tapia-Ahumada  
+Jehanzeb Noor  
+Katherine Steel
+{{< tdclose >}}
+{{< tdopen >}}
+Whitney
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_powergrid))  
+  
+Phase 2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/pres2_powergrid))  
+  
+Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_powergrid))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 4.3 MB]({{< baseurl >}}/resources/report_powergrid))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Air Transport
+{{< tdclose >}}
+{{< tdopen >}}
+Philippe Bonnefoy  
+Roland Weibel
+{{< tdclose >}}
+{{< tdopen >}}
+Magee
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF - 3.0 MB]({{< baseurl >}}/resources/pres1_airtrans))  
+  
+Phase 2 ([PDF - 2.3 MB]({{< baseurl >}}/resources/pres2_airtrans))  
+  
+Final (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.2 MB]({{< baseurl >}}/resources/final_airtrans))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6 MB]({{< baseurl >}}/resources/report_airtrans))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Public Switched Telephone Network (PSTN)
+{{< tdclose >}}
+{{< tdopen >}}
+Jijun Lin  
+Dan Livengood  
+Chintan Vaishnav
+{{< tdclose >}}
+{{< tdopen >}}
+Whitney
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_pstn))  
+  
+Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_pstn))  
+  
+Final ([PDF - 1.2 MB]({{< baseurl >}}/resources/final_pstn))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1 MB]({{< baseurl >}}/resources/report_pstn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ROOFNET Wireless Communication Network
+{{< tdclose >}}
+{{< tdopen >}}
+Derek Rayside  
+Jennifer E. Underwood  
+Yingxia Yang
+{{< tdclose >}}
+{{< tdopen >}}
+Moses
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_roofnet))  
+  
+Phase 2 ([PDF - 1.5 MB]({{< baseurl >}}/resources/pres2_roofnet))  
+  
+Final ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_roofnet))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7 MB]({{< baseurl >}}/resources/report_roofnet-1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MAPK Pathways
+{{< tdclose >}}
+{{< tdopen >}}
+Gergana Buonova  
+Michael Hanowsky  
+Nandan Sudarsanam
+{{< tdclose >}}
+{{< tdopen >}}
+Magee
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_mapk))  
+  
+Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_mapk))  
+  
+Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_mapk))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/report_mapk))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Structure in Climate Change Research
+{{< tdclose >}}
+{{< tdopen >}}
+Travis Franck  
+Robert Nicol  
+Jaemin Song
+{{< tdclose >}}
+{{< tdopen >}}
+Moses
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF - 2.0 MB]({{< baseurl >}}/resources/pres1_team_struc))  
+  
+Phase 2 ([PDF - 1.6 MB]({{< baseurl >}}/resources/pres2_team_struc))  
+  
+Final ([PDF]({{< baseurl >}}/resources/final_team_struc))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.0 MB]({{< baseurl >}}/resources/rep_team_struct))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Centralized-decentralized: Wikipedia vs. Encyclopedia Britannica
+{{< tdclose >}}
+{{< tdopen >}}
+Joao Castro  
+Nirav Shah  
+Robb Wirthlin
+{{< tdclose >}}
+{{< tdopen >}}
+Magee
+{{< tdclose >}}
+{{< tdopen >}}
+Phase 1 ([PDF - 2.7 MB]({{< baseurl >}}/resources/pres1_cent_decen))  
+  
+Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_cent_decen))  
+  
+Final ([PDF]({{< baseurl >}}/resources/final_cent_decen))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.9 MB]({{< baseurl >}}/resources/rep_cent_decent))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
