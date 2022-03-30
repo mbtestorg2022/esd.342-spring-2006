@@ -4,6 +4,7 @@ description: This resource gives information on disciplinary background, and res
   interests.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-342-advanced-system-architecture-spring-2006/cfb0c6eab1faddc6481c93c36182a1fb_avnet.pdf
 file_type: application/pdf
+parent_uid: 44948e84-69d8-66d0-e9ed-8e2abd23373b
 resourcetype: Document
 title: avnet.pdf
 uid: cfb0c6ea-b1fa-ddc6-481c-93c36182a1fb

@@ -5,6 +5,7 @@ description: This section contains information on introduction, PDS?structure, n
   and?1Mode?projections, network statistics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-342-advanced-system-architecture-spring-2006/398285df0e384bd8eac36d244ffcd6c7_rep_planet_data.pdf
 file_type: application/pdf
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: rep_planet_data.pdf
 uid: 398285df-0e38-4bd8-eac3-6d244ffcd6c7
