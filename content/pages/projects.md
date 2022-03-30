@@ -133,7 +133,7 @@ Phase 1 ([PDF - 3.0 MB]({{< baseurl >}}/resources/pres1_airtrans))
   
 Phase 2 ([PDF - 2.3 MB]({{< baseurl >}}/resources/pres2_airtrans))  
   
-Final (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.2 MB]({{< baseurl >}}/resources/final_airtrans))
+Final ([PDF - 4.2 MB]({{< baseurl >}}/resources/final_airtrans))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF - 1.6 MB]({{< baseurl >}}/resources/report_airtrans))
@@ -184,7 +184,7 @@ Phase 2 ([PDF - 1.5 MB]({{< baseurl >}}/resources/pres2_roofnet))
 Final ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_roofnet))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7 MB]({{< baseurl >}}/resources/report_roofnet-1))
+([PDF - 4.7 MB]({{< baseurl >}}/resources/report_roofnet-1))
 {{< tdclose >}}
 
 {{< trclose >}}
